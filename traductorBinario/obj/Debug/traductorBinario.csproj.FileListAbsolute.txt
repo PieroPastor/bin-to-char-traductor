@@ -1,0 +1,11 @@
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\bin\Debug\traductorBinario.exe.config
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\bin\Debug\traductorBinario.exe
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\bin\Debug\traductorBinario.pdb
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.csproj.AssemblyReference.cache
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.Properties.Resources.resources
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.csproj.GenerateResource.cache
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.csproj.CoreCompileInputs.cache
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.exe
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.pdb
+C:\Users\piero\OneDrive\Escritorio\traductorBinario\obj\Debug\traductorBinario.Form1.resources
